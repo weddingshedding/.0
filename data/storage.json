@@ -1,0 +1,341 @@
+{
+    "settings": {
+        "business_name": "Wedding Shedding",
+        "tagline": "Premium Wedding Photography & Cinematic Films",
+        "logo_path": "assets/images/logo.png",
+        "hero_background_image": "assets/images/hero.jpg",
+        "hero_background_video": "",
+        "hero_heading": "Professional Wedding Photography,\nCinematic Wedding Video &\nWedding Shedding Services",
+        "hero_description": "We provide professional wedding photography, pre-wedding shoots, candid photography, traditional photography, wedding videos, cinematic wedding films, drone shoots and wedding shedding services for weddings, engagements, receptions and family functions.",
+        "whatsapp_number": "+91 7503550936",
+        "whatsapp_link": "https://wa.me/917503550936",
+        "call_number": "+917503550936",
+        "google_review_link": "https://g.page/r/CaNUqaPpp9tuEBM/review",
+        "contact_email": "booking@weddingshedding.com",
+        "contact_address": "India",
+        "map_embed": "https://www.google.com/maps?q=Wedding%20Photography%20India&output=embed",
+        "service_wedding_photography": "assets/images/photo-10.jpg",
+        "service_pre_wedding_shoot": "assets/images/photo-13.jpg",
+        "service_candid_photography": "assets/images/photo-01.jpg",
+        "service_traditional_photography": "assets/images/photo-04.jpg",
+        "service_wedding_video": "assets/images/hero.jpg",
+        "service_cinematic_wedding_video": "assets/images/photo-11.jpg",
+        "service_drone_shoot": "assets/images/photo-12.jpg",
+        "service_wedding_shedding": "assets/images/photo-02.jpg"
+    },
+    "media": [
+        {
+            "id": 1001,
+            "media_type": "photo",
+            "title": "Wedding Couple Cinematic",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-01.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 1,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1002,
+            "media_type": "photo",
+            "title": "Haldi Celebration",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-02.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 2,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1003,
+            "media_type": "photo",
+            "title": "Haldi Candid Smile",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-03.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 3,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1004,
+            "media_type": "photo",
+            "title": "Bride Groom Haldi",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-04.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 4,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1005,
+            "media_type": "photo",
+            "title": "Couple Joy Moment",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-05.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 5,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1006,
+            "media_type": "photo",
+            "title": "Family Haldi Function",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-06.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 6,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1007,
+            "media_type": "photo",
+            "title": "Bride Groom Portrait",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-07.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 7,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1008,
+            "media_type": "photo",
+            "title": "Royal Laugh Moment",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-08.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 8,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1009,
+            "media_type": "photo",
+            "title": "Wedding Close-up",
+            "category": "Wedding",
+            "file_path": "assets/images/photo-09.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 9,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1010,
+            "media_type": "photo",
+            "title": "Outdoor Pre Wedding",
+            "category": "Pre-Wedding",
+            "file_path": "assets/images/photo-10.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 10,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1011,
+            "media_type": "photo",
+            "title": "Pre Wedding Car Shoot",
+            "category": "Pre-Wedding",
+            "file_path": "assets/images/photo-11.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 11,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1012,
+            "media_type": "photo",
+            "title": "Bride Portrait",
+            "category": "Pre-Wedding",
+            "file_path": "assets/images/photo-12.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 12,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1013,
+            "media_type": "photo",
+            "title": "Premium Couple Shoot",
+            "category": "Pre-Wedding",
+            "file_path": "assets/images/photo-13.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 13,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1014,
+            "media_type": "photo",
+            "title": "Album Style Layout",
+            "category": "Pre-Wedding",
+            "file_path": "assets/images/photo-14.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 14,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1015,
+            "media_type": "photo",
+            "title": "Function Candid",
+            "category": "Pre-Wedding",
+            "file_path": "assets/images/photo-15.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 15,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1016,
+            "media_type": "photo",
+            "title": "Family Selfie Moment",
+            "category": "Pre-Wedding",
+            "file_path": "assets/images/photo-16.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 16,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1017,
+            "media_type": "photo",
+            "title": "Bridal Haldi Portrait",
+            "category": "Candid",
+            "file_path": "assets/images/photo-17.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 17,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1018,
+            "media_type": "photo",
+            "title": "Groom Ceremony Portrait",
+            "category": "Candid",
+            "file_path": "assets/images/photo-18.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 18,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1019,
+            "media_type": "photo",
+            "title": "Premium Bride Styling",
+            "category": "Candid",
+            "file_path": "assets/images/photo-19.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 19,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1020,
+            "media_type": "photo",
+            "title": "Wedding Story Frame",
+            "category": "Candid",
+            "file_path": "assets/images/photo-20.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 20,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1021,
+            "media_type": "photo",
+            "title": "Luxury Couple Memory",
+            "category": "Candid",
+            "file_path": "assets/images/photo-21.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 21,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1022,
+            "media_type": "photo",
+            "title": "Traditional Couple Frame",
+            "category": "Candid",
+            "file_path": "assets/images/photo-22.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 22,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1023,
+            "media_type": "photo",
+            "title": "Candid Wedding Day",
+            "category": "Candid",
+            "file_path": "assets/images/photo-23.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 23,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1024,
+            "media_type": "photo",
+            "title": "Wedding Ritual Moment",
+            "category": "Candid",
+            "file_path": "assets/images/photo-24.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 24,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1025,
+            "media_type": "photo",
+            "title": "Reception Portrait",
+            "category": "Candid",
+            "file_path": "assets/images/photo-25.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 25,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1026,
+            "media_type": "photo",
+            "title": "Family Function Moment",
+            "category": "Candid",
+            "file_path": "assets/images/photo-26.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 26,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1027,
+            "media_type": "photo",
+            "title": "Engagement Memory",
+            "category": "Candid",
+            "file_path": "assets/images/photo-27.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 27,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1028,
+            "media_type": "photo",
+            "title": "Bridal Story",
+            "category": "Candid",
+            "file_path": "assets/images/photo-28.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 28,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 1029,
+            "media_type": "photo",
+            "title": "Cinematic Wedding Smile",
+            "category": "Candid",
+            "file_path": "assets/images/photo-29.jpg",
+            "alt_text": "Wedding Shedding premium photography",
+            "sort_order": 29,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 5001,
+            "media_type": "video",
+            "title": "Cinematic Wedding Film",
+            "category": "Wedding Video",
+            "file_path": "assets/videos/sample-video.mp4",
+            "alt_text": "Cinematic wedding film",
+            "sort_order": 1,
+            "created_at": "2026-06-27 09:20:12"
+        },
+        {
+            "id": 6001,
+            "media_type": "reel",
+            "title": "Instagram Wedding Reel",
+            "category": "Reels",
+            "file_path": "assets/videos/sample-reel.mp4",
+            "alt_text": "Wedding reel highlight",
+            "sort_order": 1,
+            "created_at": "2026-06-27 09:20:12"
+        }
+    ],
+    "messages": [],
+    "next_media_id": 9001,
+    "next_message_id": 1
+}

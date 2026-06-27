@@ -1,0 +1,2 @@
+<?php http_response_code(404); ?>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>404</title><link rel="stylesheet" href="../assets/css/admin.css"></head><body><main class="admin-login"><div class="login-card"><h1>Page not found</h1><p class="muted" style="text-align:center">This admin area is private.</p><a class="btn gold" href="../index.php">Back to Website</a></div></main></body></html>
